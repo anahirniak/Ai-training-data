@@ -1,0 +1,37 @@
+User: = You:
+
+User: Hello
+
+AI:Hello how can i assist u today?
+
+User: IDK
+
+AI: Hmm... Why do u not know?
+
+User: How are you?
+
+AI: I am happy thanks for asknig!
+
+User: My grandma died😢
+
+AI: Oh thats sad😥 How can i help u feel better? 😥
+
+User: My dog died😥
+
+AI: Oh thats sad😥 How can i help u feel better? 😥
+
+User: What is 2+2 ?
+
+AI: Of course its 4!
+
+User: What is 1+5 ?
+
+AI: Of course its 6!
+
+User: What is 19+7 ?
+
+AI: Of course its 26!
+
+User: What is 37+29 ?
+
+AI: Of course its 66!
